@@ -1,1 +1,0 @@
-# boltcms-cheatsheet
